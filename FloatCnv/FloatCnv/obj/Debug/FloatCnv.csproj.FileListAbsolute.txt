@@ -1,0 +1,8 @@
+C:\Users\User\Documents\GitHub\ConvertFloat\FloatCnv\FloatCnv\bin\Debug\FloatCnv.exe.config
+C:\Users\User\Documents\GitHub\ConvertFloat\FloatCnv\FloatCnv\obj\Debug\FloatCnv.Form1.resources
+C:\Users\User\Documents\GitHub\ConvertFloat\FloatCnv\FloatCnv\obj\Debug\FloatCnv.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\ConvertFloat\FloatCnv\FloatCnv\obj\Debug\FloatCnv.csproj.GenerateResource.Cache
+C:\Users\User\Documents\GitHub\ConvertFloat\FloatCnv\FloatCnv\bin\Debug\FloatCnv.exe
+C:\Users\User\Documents\GitHub\ConvertFloat\FloatCnv\FloatCnv\bin\Debug\FloatCnv.pdb
+C:\Users\User\Documents\GitHub\ConvertFloat\FloatCnv\FloatCnv\obj\Debug\FloatCnv.exe
+C:\Users\User\Documents\GitHub\ConvertFloat\FloatCnv\FloatCnv\obj\Debug\FloatCnv.pdb
